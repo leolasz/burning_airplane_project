@@ -55,4 +55,3 @@ The Airplane model has rows and columns to determine the configuration of the pl
   - https://trello.com/ or
   - http://pivotal.io/labs
   
-# Test Edit by Lawrence
